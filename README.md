@@ -55,7 +55,7 @@ Exemple d'affichage :
 
 Soit le capital initial **C<sub>0</sub>** = 300 000$ et le capital placé récupéré au bout de n années <strong>C<sub>n</sub> = C<sub>n-1</sub>+C<sub>n-1</sub> * taux_interet</strong>
 
-Calculer  **C<sub>20</sub>** le capital placé pendant 20 années avec un taux d'intérêt de 8%.
+Calculer  **C<sub>20</sub>** le capital placé pendant 20 années avec un taux d'intérêt de 8%. 
 
 
 Exemple d'affichage : 
