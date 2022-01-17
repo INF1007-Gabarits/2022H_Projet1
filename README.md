@@ -22,7 +22,7 @@ Enfin:  **Valeur acquise = Capital + Intérêts**
 
 Exemple d'affichage : 
 
-![Formules de section](data/affichage_partie1.png)
+![Formules de section](data/affichage-partie1.png)
 
 ## Partie 2 :  Comparer deux placements à intérêts simples /8 pts
 À faire : compléter le fichier `partie_2.py`
@@ -46,7 +46,7 @@ Remarque : La formule pour calculer la valeur de votre capital est :
 
 Exemple d'affichage : 
 
-![Formules de section](data/affichage_partie2.png)
+![Formules de section](data/affichage-partie2.png)
 
 
 
@@ -60,6 +60,6 @@ Calculer  **C<sub>20</sub>** le capital placé pendant 20 années avec un taux d
 
 Exemple d'affichage : 
 
-![Formules de section](data/affichage_partie3.png)
+![Formules de section](data/affichage-partie3.png)
 
 
