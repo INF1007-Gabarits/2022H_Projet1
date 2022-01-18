@@ -1,7 +1,7 @@
 # Projet 1 - Préparez vos placements financiers
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le dimanche 3 octobre à 23h59](https://www.timeanddate.com/countdown/generic?iso=20200928T2359&p0=165&msg=Remise&font=cursive&csz=1#)
+#### :alarm_clock: [Date de remise le dimanche 13 février à 23h59](https://www.timeanddate.com/countdown/generic?iso=20220213T2359&p0=165&font=cursive)
 
 ## Objectif
 Concevoir et implémenter un programme permettant de calculer le rendement de différents investissements selon différentes situations. 
